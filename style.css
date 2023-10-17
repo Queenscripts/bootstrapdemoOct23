@@ -5,3 +5,11 @@ h1{
 .aqua{
    background-color:#ADFCF9 !important;
 }
+
+.jumboTron{
+   background-color: #49393B !important;
+   color: white;
+}
+.jumboTron  h1{
+   color: white !important;
+}
